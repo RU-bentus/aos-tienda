@@ -8,7 +8,7 @@ export const APP = {
   //    Ejemplo: 'https://script.google.com/macros/s/AKfycb.../exec'
   //    Si la dejas vacía, la tienda arranca en MODO DEMO con productos de ejemplo
   //    (sirve para ver el diseño antes de conectar Google Sheets; no registra pedidos reales).
-  API_URL: '',
+  API_URL: 'https://script.google.com/macros/s/AKfycbxtVZb_B9vL8pJQSnfJ5vht1-CaPFWubgiKCQ3IC6TH3ibF-nudXK8ND0-SECbtyd0i/exec',
 
   // Tiempo máximo (ms) que espera la lectura del catálogo antes de quedarse con la copia guardada en el dispositivo.
   CATALOG_TIMEOUT_MS: 12000,
