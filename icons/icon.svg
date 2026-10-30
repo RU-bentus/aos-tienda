@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AOS">
+  <rect width="512" height="512" rx="112" fill="#0d0d0d"/>
+  <circle cx="392" cy="130" r="42" fill="#da532c"/>
+  <text x="256" y="338" text-anchor="middle" font-family="Georgia, 'Playfair Display', 'Times New Roman', serif" font-weight="700" font-size="212" letter-spacing="-4" fill="#f6f4ef">AOS</text>
+  <path d="M96 392c80-14 160-14 320 0" fill="none" stroke="#f6f4ef" stroke-width="10" stroke-linecap="round" opacity=".55"/>
+</svg>
